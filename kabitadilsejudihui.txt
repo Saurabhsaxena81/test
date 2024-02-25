@@ -1,2 +1,4 @@
 learning github with shreyansh coding school
 kuch bhi karo yarro
+this is the branch of the min
+this is used when you contributed in some project's 
